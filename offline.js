@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1530716468,
+	"version": 1530804195,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,6 +38,12 @@
 		"images/cam-sheet0.png",
 		"media/bgm.ogg",
 		"media/clear.ogg",
-		"media/wrong.ogg"
+		"media/wrong.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
 	]
 }
